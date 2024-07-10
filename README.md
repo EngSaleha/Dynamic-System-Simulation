@@ -7,3 +7,7 @@ The Code of Part 1:
 The Code of Part 2: 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zEEKN1mtvhn3oAj4uPn8Ale4ndP7iXLW?usp=sharing)
 
+The Code of Part 2 with Actuation fun: 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1zEEKN1mtvhn3oAj4uPn8Ale4ndP7iXLW?usp=sharing](https://colab.research.google.com/drive/1WKS3_5ljqA-ruutwYpE1eIUWRhcU4l_q?usp=sharing)
+)
+
