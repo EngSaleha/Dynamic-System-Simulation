@@ -13,3 +13,8 @@ The Code of Part 2 with Actuation fun:
 
 The code with F as function: 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Qr1eaZjUnc7kc3MB2fdBcph-CHRYEBzB?usp=sharing)
+
+The code with Drag Wremch as function: 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rRf4S-D9fRuugaTWsKMBXt8YlfwZytiA?usp=sharing)
+
+
